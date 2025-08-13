@@ -1,2 +1,5 @@
-# habayyt-V1
-First repository for habayyt, created by Engie
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
